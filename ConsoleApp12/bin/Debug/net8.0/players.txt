@@ -1,0 +1,19 @@
+PlayerName: Marsel
+MaxLevel: 5
+Score: 800
+---
+PlayerName: Prigozhin
+MaxLevel: 3
+Score: 50
+---
+PlayerName: Evgen
+MaxLevel: 2
+Score: 10
+---
+PlayerName: Putin
+MaxLevel: 1
+Score: 0
+---
+PlayerName: Yui
+MaxLevel: 1
+Score: 0
